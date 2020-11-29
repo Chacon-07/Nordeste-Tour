@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Título da página</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+      
+      <h2> Abertura de Chamadas </h2>
+   
+      
+      <form action="dados.html" method="get">
+          <fieldset id="Nome_func"> <legend> Nome do funcionário </legend><br> 
+              <label for="cNome"> Nome: </label> 
+              <input type="text" name="Nome" id="cNome" size="40" maxlength="99" placeholder="Nome Completo"/><br><br>
+          </fieldset>
+          
+          <fieldset id="Assunto_func"> <legend> Assunto do chamado </legend><br>
+              <label for="cAssunto">Digite aqui o assunto do seu chamado:</label> <br> 
+              <textarea id="cAssunto" name="assunto" rows="5" cols="33"> </textarea>
+          </fieldset> 
+          
+          <fieldset id="Assunto_predefinido"> <legend> Categorias de chamado pré-definidas </legend>
+              <p> Escolha uma opção </p>
+              <input type="radio" name="tOpcao" id="cAdmin"/><label for="cAdmin">Admnistrativa</label><br>
+              <input type="radio" name="tOpcao" id="cGeren"/><label for="cGeren">Gerenncial</label><br>
+              <input type="radio" name="tOpcao" id="cOpera"/><label for="cOpera">Operacional</label><br>
+              <br>
+              <br>
+              <label for="cDetalhamento">Digite aqui o detalhamento do seu chamado:</label> <br>
+              <textarea id="cDetalhamento" name="assunto" rows="5" cols="33"> </textarea>
+          </fieldset> 
+          
+          <input type="submit" id="btn-Enviar" value="Enviar Dados"/>
+          <button type="button" id="btn-voltar" onclick="location.href='home.html'"> Voltar </button>
+                     
+      </form>
+                 
+  </body>
+</html>
