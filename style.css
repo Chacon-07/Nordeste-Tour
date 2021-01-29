@@ -35,13 +35,13 @@ p {
     }
 
 
-/**.coluna{
+.coluna{
         width: 33.33%;
         border-width: 1px;
         border-style: solid;
         border-color: yellow;
         float: left;
-        display: flex;
+        display: inline-block;
         justify-content: center;
 
         width: 300px;
@@ -50,7 +50,7 @@ p {
         margin-left: 65px;
         margin-right: 65px;
         padding: 5px 5px 5px 5px;
- }*/
+ }
 
 
 
