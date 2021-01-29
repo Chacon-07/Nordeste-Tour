@@ -40,6 +40,7 @@ p {
         border-width: 1px;
         border-style: solid;
         border-color: yellow;
+        float: left;
         display: flex;
         justify-content: center;
 
