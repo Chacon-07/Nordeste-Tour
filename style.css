@@ -35,7 +35,7 @@ p {
     }
 
 
-.coluna{
+/**.coluna{
         width: 33.33%;
         border-width: 1px;
         border-style: solid;
@@ -49,8 +49,8 @@ p {
         
         margin-left: 65px;
         margin-right: 65px;
-        /**padding: 5px 5px 5px 5px;*/
- }
+        padding: 5px 5px 5px 5px;
+ }*/
 
 
 
