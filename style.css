@@ -37,7 +37,7 @@ p {
 
 .coluna{
         display: inline-block;
-        width: 33.33%;
+        width: 30%;
         border-width: 1px;
         border-style: solid;
         border-color: yellow;
