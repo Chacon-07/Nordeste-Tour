@@ -130,6 +130,13 @@ form fieldset {
         color: yellow;
         background-color: black;
     }
+#p1,p2 {
+        text-align: left;
+        font-family: "Arial";
+        font-style: italic;
+        font-size: 25px;
+        color: gold;
+        }
 
 form fieldset label {
         font-size: 17px;
