@@ -36,20 +36,7 @@ p {
 
 
 .coluna{
-        width: 33.33%;
-        border-width: 1px;
-        border-style: solid;
-        border-color: yellow;
-        float: left;
         display: inline-block;
-        justify-content: center;
-        text-align: center;
-
-        width: 300px;
-        height: 300px;
-       
-        margin: 5% 10% 5% 10%;
-        padding: 5px 5px 5px 5px;
  }
 
 
