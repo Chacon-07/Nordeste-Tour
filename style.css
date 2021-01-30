@@ -23,6 +23,7 @@ h1 {
         font-family: "Lucida Console";
         font-style: oblique;
         font-size: 30px;
+        text-align: center;
         color: black;
         background-color: yellow;
         margin-left: 100px;
