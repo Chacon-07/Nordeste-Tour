@@ -82,12 +82,12 @@ img{
     }
 
 #menu ul li a {
-        padding-right: 100px;
+        padding-right: 25px;
         padding-left: 25px;
         display: inline-block;
         text-decoration: none;
         color: black;
-        font-size:15px;
+        font-size:25px;
         margin-left: 25px;
     }
 
