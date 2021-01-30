@@ -41,7 +41,8 @@ p {
         border-width: 1px;
         border-style: solid;
         border-color: yellow;
-        margin: 50px 10px 50px 10px;
+        margin-left: auto;
+        margin-right: auto;
         display: block;
  }
 
