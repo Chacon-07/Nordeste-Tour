@@ -171,4 +171,9 @@ input[type=radio] {
         cursor: pointer;
     }
 
+input[type=reset] { 
+        background-color: yellow; 
+        border: 15px solid transparent;
+        cursor: pointer;
+    }
 
