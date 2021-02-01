@@ -70,6 +70,8 @@ p {
 img{
         border-style: solid;
         border-width: 1px;
+        width: "400";
+        heigth: "300";
     }
 
 
